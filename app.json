@@ -1,7 +1,7 @@
 {
   "name": "ChatBot",
   "description": "Simple ChatBot in Telethon.",
-  "logo": "https://static.botsrv.com/website/img/quriobot_favicon.1727b193.png",
+  "logo": "https://1.bp.blogspot.com/-y__OlAp2LKg/X61N-u7FwiI/AAAAAAAAAAM/mX7EkEau4dw9vrCugZ61zo_i5SAbSM3jwCLcBGAsYHQ/s480/Photo_1603283479401.png",
   "keywords": [
     "telegram",
     "chatbot",
@@ -9,9 +9,9 @@
     "telegram-chatbot",
     "productivity"
   ],
-  "repository": "https://github.com/StarkGang/ChatBot",
+  "repository": "https://github.com/kaj117/kmacchatbot/",
   "website": "starkgang.ml",
-  "success_url": "t.me/FridayOT",
+  "success_url": "t.me/cyberwordk",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
